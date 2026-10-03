@@ -1,0 +1,78 @@
+# =========================
+# Core / Data Science
+# =========================
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+ipykernel
+python-dotenv
+pydantic
+requests
+httpx
+tqdm
+rich
+imbalanced-learn
+joblib
+
+# =========================
+# RAG / LLM
+# =========================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+chromadb
+sentence-transformers
+pypdf
+pymupdf
+tiktoken
+
+# =========================
+# Agentic AI
+# =========================
+langgraph
+
+# =========================
+# Machine Learning
+# =========================
+xgboost
+lightgbm
+
+# =========================
+# Deep Learning
+# =========================
+
+transformers
+datasets
+accelerate
+evaluate
+
+# =========================
+# MLOps / API
+# =========================
+mlflow
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+
+# =========================
+# Testing
+# =========================
+pytest
+
+
+#DVC
+
+dvc
+dvc-s3
+
+#Monitoring
+evidently
+
+
